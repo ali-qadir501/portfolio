@@ -1,0 +1,6 @@
+protomindx-website/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   └── logo.svg (or placeholder)
